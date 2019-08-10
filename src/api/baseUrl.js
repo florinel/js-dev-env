@@ -1,6 +1,6 @@
 
 export default function getBaseUrl(){
-	return getQueryStringParameterByName('useMockApi') ? 'http://localhost:3001/' : 'https://fierce-forest-10468.herokuapp.com/';
+	return getQueryStringParameterByName('useMockApi') ? 'http://localhost:3001/' : 'https://frozen-tor-71549.herokuapp.com/';
 }
 
 function getQueryStringParameterByName(name, url){
