@@ -1,3 +1,2 @@
-# js-dev-env
-
-Robust JavaScript development environment that handles bundling, linting, transpiling, testing, and much more.
+# Js-dev-env
+JavaScript development Environment Starter Kit
